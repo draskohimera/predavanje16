@@ -1,7 +1,7 @@
 1. Ivan Djordjevic
 2. Uros Milosavljevic
 3. Katarina Simonovic
-4. Jelena Rakicgit
+4. Jelena Rakic
 5. Ivan Djordjevic ---> added second line of code.
 6. Uros Milosavljevic - second line of code
 7. Katarina Simonovic --- druga linija koda
